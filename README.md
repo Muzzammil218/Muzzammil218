@@ -33,5 +33,5 @@
 
 ### 📫 Let's Connect
 
-[www.linkedin.com/in/muhammad-muzzammil218](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[https://github.com/Muzzammil218/Muzzammil218](https://img.shields.io/badge/GitHub_Page-100000?style=for-the-badge&logo=github&logoColor=white)](https://muzzammil218.github.io/FoodiesHub)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-muzzammil218)
+[![Portfolio](https://img.shields.io/badge/GitHub_Page-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muzzammil218/Muzzammil218)

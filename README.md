@@ -24,15 +24,11 @@
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Muzzammil218?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
-  <img src="https://img.shields.io/github/stars/Muzzammil218?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzzammil218&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muzzammil218&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzzammil218&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="49%" />
 </p>
 
 ---

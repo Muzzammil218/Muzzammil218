@@ -24,24 +24,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Muzzammil218&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Muzzammil218&show_icons=true&theme=default&hide_border=true&card_width=450" />
-    <img src="https://github-stats-extended.vercel.app/api?username=Muzzammil218&show_icons=true&theme=tokyonight&hide_border=true&card_width=450" alt="Muzzammil's GitHub Stats" height="195" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Muzzammil218&layout=compact&theme=tokyonight&hide_border=true&card_width=450" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Muzzammil218&layout=compact&theme=default&hide_border=true&card_width=450" />
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Muzzammil218&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" height="195" />
-  </picture>
-</p>
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-muzzammil218)

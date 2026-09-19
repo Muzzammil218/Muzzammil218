@@ -24,21 +24,6 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Muzzammil218?label=Followers&style=for-the-badge&color=0088cc&logo=github" />
-  <img src="https://img.shields.io/github/stars/Muzzammil218?label=Total%20Stars&style=for-the-badge&color=7852ff&logo=github" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0088cc/Muzzammil218" alt="Muzzammil's Contribution Chart" width="100%" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-muzzammil218)

@@ -26,9 +26,12 @@
 
 ### 📊 GitHub Stats
 
-![Muzzammil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muzzammil218&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil218&layout=compact&theme=tokyonight)
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muzzammil218&show_icons=true&theme=tokyonight&hide_border=true" alt="Muzzammil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muzzammil218&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 ---
 
 ### 📫 Let's Connect

@@ -24,12 +24,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muzzammil218&show_icons=true&theme=tokyonight" alt="Muzzammil's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muzzammil218&layout=compact&theme=tokyonight" alt="Top Languages" width="49%" />
+  <img src="https://img.shields.io/github/followers/Muzzammil218?label=Followers&style=for-the-badge&color=7aa2f7&logo=github" />
+  <img src="https://img.shields.io/github/stars/Muzzammil218?label=Total%20Stars&style=for-the-badge&color=bb9af7&logo=github" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muzzammil218&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
+</p>
+
 ---
 
 ### 📫 Let's Connect
